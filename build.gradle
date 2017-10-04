@@ -1,0 +1,16 @@
+group 'com.exponea'
+version '1.0'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.apache.kafka', name:'kafka-clients', version:'0.11.0.0-cp1'
+    compile group: 'org.apache.kafka', name: 'kafka_2.11', version: '0.11.0.0'
+    compile group: 'org.apache.kafka', name: 'kafka-streams', version:'0.11.0.0'
+}

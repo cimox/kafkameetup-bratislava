@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkameetup.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkameetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkameetup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkameetup_main.iml" group="kafkameetup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkameetup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkameetup_test.iml" group="kafkameetup" />
+    </modules>
+  </component>
+</project>
